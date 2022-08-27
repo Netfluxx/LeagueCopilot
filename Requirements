@@ -1,0 +1,16 @@
+Python modules to install :
+- Pyautogui
+- subprocess
+- psutil
+- tkinter (tk)
+- PIL (Pillow)
+
+how to procede :
+
+in your terminal/command line, type "pip install name_of_module" for every module:
+
+pip install pyautogui
+pip install subprocess
+pip install psutil
+pip install tk
+pip install Pillow
